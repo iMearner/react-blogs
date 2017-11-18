@@ -8,3 +8,12 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 
+if you are not familiar with git you can download zip file from https://github.com/iMearner/react-blogs
+extract this file
+and again
+
+```
+> cd react-blogs
+> npm install
+> npm start
+```
